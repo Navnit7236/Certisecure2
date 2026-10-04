@@ -16,7 +16,7 @@ export default function LoginPage() {
             <ShieldCheck className="w-8 h-8 text-white" />
           </div>
           <h1 className="text-4xl font-extrabold text-white mb-3 tracking-tight">Select Login Type</h1>
-          <p className="text-gray-400 text-lg">Choose your role to access the CertiSecure2 platform</p>
+          <p className="text-white-400 text-lg"><b>Choose your role to access the CertiSecure2 platform</b></p>
         </div>
 
         <div className="grid md:grid-cols-2 gap-6 max-w-4xl w-full">

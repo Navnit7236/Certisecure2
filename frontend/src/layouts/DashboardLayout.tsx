@@ -17,13 +17,16 @@ export default function DashboardLayout({ children }: DashboardLayoutProps) {
           <div className="flex items-center gap-2">
             <span className="font-semibold text-gray-400">CertiSecure2</span>
             <span>— Cryptographic Certificate Integrity System (SIH 2026)</span>
+
+          </div>
+          <div>
+            <span>Vision Coder</span>
           </div>
           <div className="flex items-center gap-4 text-xs text-gray-500">
             <span>Ed25519 Signatures</span>
             <span>•</span>
             <span>SHA-256 Hashes</span>
-            <span>•</span>
-            <span>MySQL Backend</span>
+
           </div>
         </div>
       </footer>

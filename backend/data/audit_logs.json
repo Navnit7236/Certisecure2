@@ -38,5 +38,455 @@
     "ip_address": "127.0.0.1",
     "metadata_json": null,
     "created_at": "2026-08-20T05:24:14.118742+00:00"
+  },
+  {
+    "id": 5,
+    "actor_id": 1,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "1",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-08-20T06:47:41.730129+00:00"
+  },
+  {
+    "id": 6,
+    "actor_id": 2,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "2",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-08-20T06:48:14.886064+00:00"
+  },
+  {
+    "id": 7,
+    "actor_id": 7,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "7",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-08-20T06:50:45.589876+00:00"
+  },
+  {
+    "id": 8,
+    "actor_id": 2,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "2",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-08-20T06:51:14.385865+00:00"
+  },
+  {
+    "id": 9,
+    "actor_id": 2,
+    "action": "CERT_ISSUED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000003",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"holder\": \"Vinayak Singh\", \"course\": \"BCA\", \"roll_number\": \"SMS-2026-CS-0103\"}",
+    "created_at": "2026-08-20T06:51:57.534961+00:00"
+  },
+  {
+    "id": 10,
+    "actor_id": 7,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "7",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-08-20T06:53:04.833894+00:00"
+  },
+  {
+    "id": 11,
+    "actor_id": 8,
+    "action": "USER_CREATED",
+    "resource_type": "user",
+    "resource_id": "8",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-08-20T06:54:10.069960+00:00"
+  },
+  {
+    "id": 12,
+    "actor_id": 8,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "8",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-08-20T06:54:10.104774+00:00"
+  },
+  {
+    "id": 13,
+    "actor_id": 8,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "8",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-08-20T06:54:32.529432+00:00"
+  },
+  {
+    "id": 14,
+    "actor_id": 8,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "8",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-08-20T06:56:51.024848+00:00"
+  },
+  {
+    "id": 15,
+    "actor_id": 5,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "5",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-08-20T06:58:35.742874+00:00"
+  },
+  {
+    "id": 16,
+    "actor_id": null,
+    "action": "CERT_VERIFIED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000003",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"result\": \"VALID\"}",
+    "created_at": "2026-08-20T06:58:41.276766+00:00"
+  },
+  {
+    "id": 17,
+    "actor_id": null,
+    "action": "CERT_VERIFIED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000003",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"result\": \"VALID\"}",
+    "created_at": "2026-08-20T07:07:35.807580+00:00"
+  },
+  {
+    "id": 18,
+    "actor_id": null,
+    "action": "CERT_VERIFIED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000003",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"result\": \"VALID\"}",
+    "created_at": "2026-08-20T07:07:35.842586+00:00"
+  },
+  {
+    "id": 19,
+    "actor_id": 3,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "3",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-08-20T07:08:06.368678+00:00"
+  },
+  {
+    "id": 20,
+    "actor_id": 2,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "2",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-08-20T13:23:47.992932+00:00"
+  },
+  {
+    "id": 21,
+    "actor_id": 2,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "2",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-08-21T04:36:40.286583+00:00"
+  },
+  {
+    "id": 22,
+    "actor_id": 2,
+    "action": "CERT_ISSUED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000004",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"holder\": \"Navnit Yadav\", \"course\": \"BCA\", \"roll_number\": \"2410924050056\"}",
+    "created_at": "2026-08-21T04:37:45.992164+00:00"
+  },
+  {
+    "id": 23,
+    "actor_id": null,
+    "action": "CERT_VERIFIED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000004",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"result\": \"VALID\"}",
+    "created_at": "2026-08-21T04:37:59.475303+00:00"
+  },
+  {
+    "id": 24,
+    "actor_id": null,
+    "action": "CERT_VERIFIED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000004",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"result\": \"VALID\"}",
+    "created_at": "2026-08-21T04:37:59.519872+00:00"
+  },
+  {
+    "id": 25,
+    "actor_id": null,
+    "action": "CERT_VERIFIED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000004",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"result\": \"TAMPERED\"}",
+    "created_at": "2026-08-21T04:45:49.844442+00:00"
+  },
+  {
+    "id": 26,
+    "actor_id": null,
+    "action": "CERT_VERIFIED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000004",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"result\": \"TAMPERED\"}",
+    "created_at": "2026-08-21T04:45:49.885556+00:00"
+  },
+  {
+    "id": 27,
+    "actor_id": 2,
+    "action": "CERT_REVOKED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000004",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"reason\": \"incorrect_information\"}",
+    "created_at": "2026-08-21T04:50:31.576504+00:00"
+  },
+  {
+    "id": 28,
+    "actor_id": 2,
+    "action": "CERT_ISSUED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000005",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"holder\": \"Parakh Awasthi\", \"course\": \"BCA\", \"roll_number\": \"2410924050058\"}",
+    "created_at": "2026-08-21T04:52:12.103449+00:00"
+  },
+  {
+    "id": 29,
+    "actor_id": 2,
+    "action": "CERT_ISSUED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000006",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"holder\": \"Gaurav Singh\", \"course\": \"BCA\", \"roll_number\": \"2410924050039\"}",
+    "created_at": "2026-08-21T04:52:51.849963+00:00"
+  },
+  {
+    "id": 30,
+    "actor_id": 2,
+    "action": "CERT_ISSUED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000007",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"holder\": \"Kamlesh Yadav\", \"course\": \"BCA\", \"roll_number\": \"2410924050047\"}",
+    "created_at": "2026-08-21T04:53:31.061743+00:00"
+  },
+  {
+    "id": 31,
+    "actor_id": 2,
+    "action": "CERT_ISSUED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000008",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"holder\": \"Pratiksha Yadav\", \"course\": \"BCA\", \"roll_number\": \"2510925060052\"}",
+    "created_at": "2026-08-21T04:55:32.997037+00:00"
+  },
+  {
+    "id": 32,
+    "actor_id": 2,
+    "action": "CERT_ISSUED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000009",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"holder\": \"Rinki kumari\", \"course\": \"BCA\", \"roll_number\": \"2510925060057\"}",
+    "created_at": "2026-08-21T04:55:56.116754+00:00"
+  },
+  {
+    "id": 33,
+    "actor_id": null,
+    "action": "CERT_VERIFIED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000009",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"result\": \"VALID\"}",
+    "created_at": "2026-08-21T04:56:09.237789+00:00"
+  },
+  {
+    "id": 34,
+    "actor_id": null,
+    "action": "CERT_VERIFIED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000009",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"result\": \"VALID\"}",
+    "created_at": "2026-08-21T04:56:09.284448+00:00"
+  },
+  {
+    "id": 35,
+    "actor_id": 1,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "1",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-08-21T06:35:53.249164+00:00"
+  },
+  {
+    "id": 36,
+    "actor_id": 2,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "2",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-08-21T06:36:14.664317+00:00"
+  },
+  {
+    "id": 37,
+    "actor_id": 5,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "5",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-08-21T06:37:02.055028+00:00"
+  },
+  {
+    "id": 38,
+    "actor_id": 2,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "2",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-08-21T06:37:21.748359+00:00"
+  },
+  {
+    "id": 39,
+    "actor_id": null,
+    "action": "CERT_VERIFIED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000009",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"result\": \"VALID\"}",
+    "created_at": "2026-08-21T06:37:34.945799+00:00"
+  },
+  {
+    "id": 40,
+    "actor_id": null,
+    "action": "CERT_VERIFIED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000009",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"result\": \"VALID\"}",
+    "created_at": "2026-08-21T06:37:34.996744+00:00"
+  },
+  {
+    "id": 41,
+    "actor_id": 2,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "2",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-08-21T06:40:15.081438+00:00"
+  },
+  {
+    "id": 42,
+    "actor_id": 1,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "1",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-08-21T06:48:34.492103+00:00"
+  },
+  {
+    "id": 43,
+    "actor_id": 10,
+    "action": "USER_CREATED",
+    "resource_type": "user",
+    "resource_id": "10",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-09-05T17:53:45.270723+00:00"
+  },
+  {
+    "id": 44,
+    "actor_id": 10,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "10",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-09-05T17:53:45.372177+00:00"
+  },
+  {
+    "id": 45,
+    "actor_id": 2,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "2",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-09-05T17:54:08.840620+00:00"
+  },
+  {
+    "id": 46,
+    "actor_id": 2,
+    "action": "CERT_ISSUED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000010",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"holder\": \"KAMLESH YADAV\", \"course\": \"BCA\", \"roll_number\": \"2410924050047\"}",
+    "created_at": "2026-09-05T17:54:57.191082+00:00"
+  },
+  {
+    "id": 47,
+    "actor_id": null,
+    "action": "CERT_VERIFIED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000010",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"result\": \"VALID\"}",
+    "created_at": "2026-09-05T17:56:45.972622+00:00"
+  },
+  {
+    "id": 48,
+    "actor_id": 5,
+    "action": "USER_LOGIN",
+    "resource_type": "user",
+    "resource_id": "5",
+    "ip_address": "127.0.0.1",
+    "metadata_json": null,
+    "created_at": "2026-09-05T17:57:36.554464+00:00"
+  },
+  {
+    "id": 49,
+    "actor_id": null,
+    "action": "CERT_VERIFIED",
+    "resource_type": "certificate",
+    "resource_id": "CERT-SMS-LKO-2026-000010",
+    "ip_address": "127.0.0.1",
+    "metadata_json": "{\"result\": \"TAMPERED\"}",
+    "created_at": "2026-09-05T17:57:41.664895+00:00"
   }
 ]

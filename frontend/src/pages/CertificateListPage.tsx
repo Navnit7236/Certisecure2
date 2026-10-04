@@ -59,7 +59,7 @@ export default function CertificateListPage() {
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
         <div>
           <h1 className="text-2xl font-bold text-white">Certificate Directory</h1>
-          <p className="text-sm text-gray-400">View and manage digitally signed certificates</p>
+          <p className="text-sm text-black-400">View and manage digitally signed certificates</p>
         </div>
 
         {(user?.role === 'admin' || user?.role === 'issuer') && (
@@ -128,9 +128,8 @@ export default function CertificateListPage() {
                     <td className="p-4 text-gray-300">{cert.course}</td>
                     <td className="p-4 text-xs text-blue-400 font-medium">{cert.certificate_type}</td>
                     <td className="p-4">
-                      <span className={`px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider ${
-                        cert.status === 'active' ? 'bg-emerald-500/10 text-emerald-400 border border-emerald-500/20' : 'bg-red-500/10 text-red-400 border border-red-500/20'
-                      }`}>
+                      <span className={`px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider ${cert.status === 'active' ? 'bg-emerald-500/10 text-emerald-400 border border-emerald-500/20' : 'bg-red-500/10 text-red-400 border border-red-500/20'
+                        }`}>
                         {cert.status}
                       </span>
                     </td>

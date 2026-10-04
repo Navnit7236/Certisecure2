@@ -6,5 +6,13 @@
     "reason_detail": "Re-issuing certificate with corrected course title",
     "revoked_by": 2,
     "revoked_at": "2026-08-20T05:24:14.067487+00:00"
+  },
+  {
+    "id": 2,
+    "certificate_id": 7,
+    "reason": "incorrect_information",
+    "reason_detail": "roll no and name is changed",
+    "revoked_by": 2,
+    "revoked_at": "2026-08-21T04:50:31.557821+00:00"
   }
 ]

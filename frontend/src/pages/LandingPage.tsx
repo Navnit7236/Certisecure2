@@ -23,7 +23,7 @@ export default function LandingPage() {
             </span>
           </h1>
 
-          <p className="max-w-3xl mx-auto text-lg sm:text-xl text-gray-400 mb-10 leading-relaxed">
+          <p className="max-w-3xl mx-auto text-lg sm:text-xl text-white-400 mb-10 leading-relaxed">
             CertiSecure2 combines <strong className="text-gray-200">Ed25519 digital signatures</strong>, <strong className="text-gray-200">SHA-256 cryptographic hashes</strong>, and instant <strong className="text-gray-200">QR code verification</strong> to completely eliminate certificate fraud. No blockchain required.
           </p>
 
@@ -79,7 +79,7 @@ export default function LandingPage() {
               <FileCheck2 className="w-6 h-6" />
             </div>
             <h3 className="text-xl font-bold text-white mb-3">Canonical JSON & SHA-256</h3>
-            <p className="text-gray-400 text-sm leading-relaxed">
+            <p className="text-white-400 text-sm leading-relaxed">
               Data fields are canonicalized into deterministic JSON before hashing. Any change to student name, roll number, or grade breaks the hash.
             </p>
           </div>
